@@ -1,0 +1,7 @@
+2014-09-16 17:27:00,003 [SchedulerTest_Scheduler_Worker-1] ERROR SM.BIZKeepAliveHttp.HKAsyncRequest - 输出到客户端发生错误:Object reference not set to an instance of an object.
+2014-09-16 17:27:30,003 [SchedulerTest_Scheduler_Worker-2] ERROR SM.BIZKeepAliveHttp.HKAsyncRequest - 输出到客户端发生错误:Object reference not set to an instance of an object.
+2014-09-16 17:27:59,999 [SchedulerTest_Scheduler_Worker-1] ERROR SM.BIZKeepAliveHttp.HKAsyncRequest - 输出到客户端发生错误:Object reference not set to an instance of an object.
+2014-09-16 17:28:30,004 [SchedulerTest_Scheduler_Worker-2] ERROR SM.BIZKeepAliveHttp.HKAsyncRequest - 输出到客户端发生错误:Object reference not set to an instance of an object.
+2014-09-16 17:29:00,004 [SchedulerTest_Scheduler_Worker-1] ERROR SM.BIZKeepAliveHttp.HKAsyncRequest - 输出到客户端发生错误:Object reference not set to an instance of an object.
+2014-09-16 17:29:30,004 [SchedulerTest_Scheduler_Worker-2] ERROR SM.BIZKeepAliveHttp.HKAsyncRequest - 输出到客户端发生错误:Object reference not set to an instance of an object.
+2014-09-16 17:30:00,013 [SchedulerTest_Scheduler_Worker-2] ERROR SM.BIZKeepAliveHttp.HKAsyncRequest - 输出到客户端发生错误:Object reference not set to an instance of an object.

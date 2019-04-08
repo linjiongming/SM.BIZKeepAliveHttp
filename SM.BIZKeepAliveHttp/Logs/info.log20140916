@@ -1,0 +1,26 @@
+2014-09-16 17:24:00,650 [SchedulerTest_Scheduler_Worker-1] INFO  SM.BIZKeepAliveHttp.HeartJob - 完成一次客户端回复:17:24:00
+2014-09-16 17:24:30,000 [SchedulerTest_Scheduler_Worker-2] INFO  SM.BIZKeepAliveHttp.HeartJob - 完成一次客户端回复:17:24:30
+2014-09-16 17:25:00,001 [SchedulerTest_Scheduler_Worker-1] INFO  SM.BIZKeepAliveHttp.AsyncManager - 回复:AA 00 25 50 06 02 7B 0A 20 20 22 69 64 22 20 3A 20 22 31 32 22 2C 0A 20 20 22 64 65 76 69 63 65 69 64 22 20 3A 20 22 31 22 0A 7D 7B 
+2014-09-16 17:25:00,002 [SchedulerTest_Scheduler_Worker-1] INFO  SM.BIZKeepAliveHttp.HeartJob - 完成一次客户端回复:17:25:00
+2014-09-16 17:25:29,999 [SchedulerTest_Scheduler_Worker-2] INFO  SM.BIZKeepAliveHttp.AsyncManager - 回复:AA 00 25 50 06 02 7B 0A 20 20 22 69 64 22 20 3A 20 22 31 32 22 2C 0A 20 20 22 64 65 76 69 63 65 69 64 22 20 3A 20 22 31 22 0A 7D 7B 
+2014-09-16 17:25:30,000 [SchedulerTest_Scheduler_Worker-2] INFO  SM.BIZKeepAliveHttp.HeartJob - 完成一次客户端回复:17:25:30
+2014-09-16 17:26:00,003 [SchedulerTest_Scheduler_Worker-1] INFO  SM.BIZKeepAliveHttp.AsyncManager - 回复:AA 00 25 50 06 02 7B 0A 20 20 22 69 64 22 20 3A 20 22 31 32 22 2C 0A 20 20 22 64 65 76 69 63 65 69 64 22 20 3A 20 22 31 22 0A 7D 7B 
+2014-09-16 17:26:00,003 [SchedulerTest_Scheduler_Worker-1] INFO  SM.BIZKeepAliveHttp.HeartJob - 完成一次客户端回复:17:26:00
+2014-09-16 17:26:30,003 [SchedulerTest_Scheduler_Worker-2] INFO  SM.BIZKeepAliveHttp.AsyncManager - 回复:AA 00 25 50 06 02 7B 0A 20 20 22 69 64 22 20 3A 20 22 31 32 22 2C 0A 20 20 22 64 65 76 69 63 65 69 64 22 20 3A 20 22 31 22 0A 7D 7B 
+2014-09-16 17:26:30,003 [SchedulerTest_Scheduler_Worker-2] INFO  SM.BIZKeepAliveHttp.HeartJob - 完成一次客户端回复:17:26:30
+2014-09-16 17:27:00,003 [SchedulerTest_Scheduler_Worker-1] INFO  SM.BIZKeepAliveHttp.AsyncManager - 回复:AA 00 25 50 06 02 7B 0A 20 20 22 69 64 22 20 3A 20 22 31 32 22 2C 0A 20 20 22 64 65 76 69 63 65 69 64 22 20 3A 20 22 31 22 0A 7D 7B 
+2014-09-16 17:27:00,003 [SchedulerTest_Scheduler_Worker-1] INFO  SM.BIZKeepAliveHttp.HeartJob - 完成一次客户端回复:17:27:00
+2014-09-16 17:27:30,003 [SchedulerTest_Scheduler_Worker-2] INFO  SM.BIZKeepAliveHttp.AsyncManager - 回复:AA 00 25 50 06 02 7B 0A 20 20 22 69 64 22 20 3A 20 22 31 32 22 2C 0A 20 20 22 64 65 76 69 63 65 69 64 22 20 3A 20 22 31 22 0A 7D 7B 
+2014-09-16 17:27:30,003 [SchedulerTest_Scheduler_Worker-2] INFO  SM.BIZKeepAliveHttp.HeartJob - 完成一次客户端回复:17:27:30
+2014-09-16 17:27:59,999 [SchedulerTest_Scheduler_Worker-1] INFO  SM.BIZKeepAliveHttp.AsyncManager - 回复:AA 00 25 50 06 02 7B 0A 20 20 22 69 64 22 20 3A 20 22 31 32 22 2C 0A 20 20 22 64 65 76 69 63 65 69 64 22 20 3A 20 22 31 22 0A 7D 7B 
+2014-09-16 17:27:59,999 [SchedulerTest_Scheduler_Worker-1] INFO  SM.BIZKeepAliveHttp.HeartJob - 完成一次客户端回复:17:27:59
+2014-09-16 17:28:30,004 [SchedulerTest_Scheduler_Worker-2] INFO  SM.BIZKeepAliveHttp.AsyncManager - 回复:AA 00 25 50 06 02 7B 0A 20 20 22 69 64 22 20 3A 20 22 31 32 22 2C 0A 20 20 22 64 65 76 69 63 65 69 64 22 20 3A 20 22 31 22 0A 7D 7B 
+2014-09-16 17:28:30,004 [SchedulerTest_Scheduler_Worker-2] INFO  SM.BIZKeepAliveHttp.HeartJob - 完成一次客户端回复:17:28:30
+2014-09-16 17:29:00,004 [SchedulerTest_Scheduler_Worker-1] INFO  SM.BIZKeepAliveHttp.AsyncManager - 回复:AA 00 25 50 06 02 7B 0A 20 20 22 69 64 22 20 3A 20 22 31 32 22 2C 0A 20 20 22 64 65 76 69 63 65 69 64 22 20 3A 20 22 31 22 0A 7D 7B 
+2014-09-16 17:29:00,004 [SchedulerTest_Scheduler_Worker-1] INFO  SM.BIZKeepAliveHttp.HeartJob - 完成一次客户端回复:17:29:00
+2014-09-16 17:29:30,004 [SchedulerTest_Scheduler_Worker-2] INFO  SM.BIZKeepAliveHttp.AsyncManager - 回复:AA 00 25 50 06 02 7B 0A 20 20 22 69 64 22 20 3A 20 22 31 32 22 2C 0A 20 20 22 64 65 76 69 63 65 69 64 22 20 3A 20 22 31 22 0A 7D 7B 
+2014-09-16 17:29:30,004 [SchedulerTest_Scheduler_Worker-2] INFO  SM.BIZKeepAliveHttp.HeartJob - 完成一次客户端回复:17:29:30
+2014-09-16 17:30:00,013 [SchedulerTest_Scheduler_Worker-2] INFO  SM.BIZKeepAliveHttp.AsyncManager - 回复:AA 00 25 50 06 02 7B 0A 20 20 22 69 64 22 20 3A 20 22 31 32 22 2C 0A 20 20 22 64 65 76 69 63 65 69 64 22 20 3A 20 22 31 22 0A 7D 7B 
+2014-09-16 17:30:00,013 [SchedulerTest_Scheduler_Worker-2] INFO  SM.BIZKeepAliveHttp.HeartJob - 完成一次客户端回复:17:30:00
+2014-09-16 17:30:00,013 [SchedulerTest_Scheduler_Worker-1] INFO  SM.BIZKeepAliveHttp.AsyncManager - 完成一次清理任务：无效请求:%s ; 超时请求:%s ; 已完成请求:s%
+2014-09-16 17:30:00,013 [SchedulerTest_Scheduler_Worker-1] INFO  SM.BIZKeepAliveHttp.CleanJob - 完成一次清理任务:17:30:00
